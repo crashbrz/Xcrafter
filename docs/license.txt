@@ -1,0 +1,24 @@
+This license is based on Beer-ware license from Poul-Henning Kamp (https://people.freebsd.org/~phk/)
+/*
+ * --------------------------------------------------------------------------------
+ * "SUSHIWARE LICENSE" (Revision 01):
+ * As long as you retain this notice, you can do whatever you want with this code.
+ * If we meet someday around the universe, and you think this code was useful,
+ * if you want, you can pay me a sushi round in return.
+ * Ewerson Guimaraes a.k.a Crash
+ * --------------------------------------------------------------------------------
+ */                                                                                                                                                                          
+                                                          ████████████                  
+                                                        ██            ██                
+                                                      ██    ▒▒░░░░░░    ██              
+                                                      ██    ▒▒▒▒▒▒░░    ██              
+                                                      ████            ████              
+                          ██████████████████          ████████████████████              
+                    ██████░░░░░░██████░░░░░░██        ████████████████████              
+                  ██▒▒▒▒░░░░░░░░██████░░░░░░░░██      ████████████████████              
+                ██▒▒▒▒▒▒░░░░░░░░██████░░░░░░░░██      ████████████████████              
+              ██▒▒▒▒████        ██████        ██      ████████████████████              
+              ██▒▒██  ██        ██████        ██      ████████████████████              
+                ██      ██████████████████████        ████████████████████              
+                                                        ████████████████                
+                                                          ████████████                  
