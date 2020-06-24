@@ -1,5 +1,5 @@
 # Xcrafter #
-Xcrafter is a portable Excel Open XML format command line file crafter. Xcrafter allows you to create xslx files and embed payloads, like XSS, XXE, SQli,SSRF, and others in an easy and fast way, even without Excel or Calc installed. 
+Xcrafter is a portable Excel Open XML format command line file crafter. Xcrafter allows you to create xlsx files and embed payloads, like XSS, XXE, SQli,SSRF, and others in an easy and fast way, even without Excel or Calc installed. 
 
 Also, Xcrafter can create regular excel files if you are not looking for a security tool.
 
