@@ -1,3 +1,10 @@
+![License](https://img.shields.io/badge/license-sushiware-red)
+![Issues open](https://img.shields.io/github/issues/crashbrz/Xcrafter)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/crashbrz/Xcrafter)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/crashbrz/Xcrafter)
+![GitHub last commit](https://img.shields.io/github/last-commit/crashbrz/Xcrafter)
+
+
 # Xcrafter #
 Xcrafter is a portable Excel Open XML format command line file crafter. Xcrafter allows you to create xlsx files and embed payloads, like XSS, XXE, SQli,SSRF, and others in an easy and fast way, even without Excel or Calc installed. 
 
